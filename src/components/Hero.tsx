@@ -2,8 +2,9 @@ import { motion } from "framer-motion";
 import { ArrowRight } from "lucide-react";
 import { WordsPullUp } from "./animations";
 
-const VIDEO_SRC =
-  "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260405_170732_8a9ccda6-5cff-4628-b164-059c500a2b41.mp4";
+// Coins falling onto a calculator — money + calculation, fits "biết tiền đi đâu".
+// Royalty-free stock (Mixkit, free license, no attribution required).
+const VIDEO_SRC = "https://assets.mixkit.co/videos/47014/47014-720.mp4";
 
 const NAV = ["Tính năng", "Cách dùng", "Bảng giá", "Về Penny", "Liên hệ"];
 

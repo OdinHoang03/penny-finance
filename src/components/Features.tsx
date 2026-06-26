@@ -3,8 +3,9 @@ import { useRef } from "react";
 import { ArrowRight, Bell, Check, PieChart, Wallet } from "lucide-react";
 import { WordsPullUpMultiStyle } from "./animations";
 
-const FEATURE_VIDEO =
-  "https://d8j0ntlcm91z4.cloudfront.net/user_38xzZboKViGWJOttwIXH07lWA1P/hf_20260406_133058_0504132a-0cf3-4450-a370-8ea3b05c95d4.mp4";
+// Organizing cash into budgets — fits "Tiền của bạn — rõ ràng từng đồng".
+// Royalty-free stock (Mixkit, free license, no attribution required).
+const FEATURE_VIDEO = "https://assets.mixkit.co/videos/23524/23524-720.mp4";
 
 const CARD_EASE = [0.22, 1, 0.36, 1] as const;
 
