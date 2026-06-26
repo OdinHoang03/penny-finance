@@ -145,7 +145,7 @@ export default function Features() {
         <div className="mt-16 flex flex-col items-center gap-5 text-center">
           <p
             className="max-w-xl text-2xl text-primary sm:text-3xl"
-            style={{ fontFamily: "'Instrument Serif', serif" }}
+            style={{ fontFamily: "'Playfair Display', serif" }}
           >
             Bắt đầu kiểm soát tiền của bạn — ngay tuần này.
           </p>
